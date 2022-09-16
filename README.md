@@ -21,6 +21,14 @@ A curated list of SystemC-AMS resources
 ## Class Notes/Lecture Notes
 
 ## Online Blogs/Artciles
+1. https://americodias.com/docs/systemc-ams/pll.md
+2. https://rahulbhadani.medium.com/systemc-ams-quick-installation-guide-3484faa1d834
+3. https://rahulbhadani.medium.com/quick-introduction-to-systemc-ams-e14cc7bdd357
+4. https://rahulbhadani.medium.com/simulating-a-low-pass-filter-using-systemc-ams-ca173c7d365a
+5. https://rahulbhadani.medium.com/electrical-circuit-simulation-with-systemc-ams-f04ae79b5060
+
+## Videos
+1. https://vimeo.com/516160732?embedded=true&source=vimeo_logo&owner=26216094
 
 ### Contributing
 To contribute to this respository, send a pull request. 
