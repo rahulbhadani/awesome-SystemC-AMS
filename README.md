@@ -1,4 +1,4 @@
-# awesome-SystemC-AMS
+#Awesome SystemC-AMS
 A curated list of SystemC-AMS resources
 
 ## Official Release
@@ -9,6 +9,7 @@ A curated list of SystemC-AMS resources
 5. https://www.accellera.org/images/downloads/standards/systemc/application_examples.zip
 6. https://www.accellera.org/resources/videos/systemc-ams-tutorial-2014
 7. https://vimeo.com/516160732?embedded=true&source=vimeo_logo&owner=26216094
+8. https://www.coseda-tech.com/download?file=files/Files/Dokumente/UGM_2014_NXP_II.pdf&cid=48
 
 ## Books
 1. https://link.springer.com/book/10.1007/b105968
